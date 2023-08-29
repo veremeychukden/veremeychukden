@@ -14,7 +14,7 @@
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-  ![Redux] (https://img.shields.io/badge/redux-redux?logo=redux&logoColor=purple&labelColor=white&color=grey)
+  ![Redux](https://img.shields.io/badge/redux-redux?logo=redux&logoColor=purple&labelColor=white&color=grey)
 - 🛢 &nbsp;
   ![Firebase](https://img.shields.io/badge/firebase-firebase?logo=firebase&logoColor=yellow&labelColor=white&color=grey)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
