@@ -32,7 +32,7 @@
 <p align="center">
 <a href="https://www.instagram.com/vr_denys/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:veremeychukden@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="t.me/court_eu"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2A6AF5?style=for-the-badge&logo=telegram&logoColor=white%22"></a>
+<a href="https://t.me/court_eu"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2A6AF5?style=for-the-badge&logo=telegram&logoColor=white%22"></a>
 
 </p>
 
