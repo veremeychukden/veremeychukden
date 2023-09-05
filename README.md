@@ -23,6 +23,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-Studio?logo=visual-studio&logoColor=purple&labelColor=white&color=purple)
 
 <br/>
 
