@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing Web applications, opened up for new challenges.
 - 🎓 &nbsp; Lviv Polytechnic National University.
-- 💼 &nbsp; Front-end Developer.
+- 💼 &nbsp; Web Developer.
 - 🌱 &nbsp; Learning more about Web Development.
 
 <h3> 🛠 &nbsp;Skills & Tools</h3>
@@ -15,6 +15,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Redux](https://img.shields.io/badge/Redux-Redux?logo=redux&logoColor=purple&labelColor=white&color=grey)
+  ![NodeJS](https://img.shields.io/badge/NodeJS-NodeJS?logo=node.js&logoColor=light-green&labelColor=white&color=light-green)
 - 🛢 &nbsp;
   ![Firebase](https://img.shields.io/badge/firebase-firebase?logo=firebase&logoColor=yellow&labelColor=white&color=grey)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
